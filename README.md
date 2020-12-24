@@ -6,6 +6,7 @@ Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas estuda
 -  Sass, Flexbox e Boostrap
 -  Design UI/UX(Adobe XD)
  - Tenho interesse: React, React native, nodejs ou PHP
+ - Também estudei sobre python durante todo um semestre da faculdade
  - Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.
 ##### " Dedicação e empenho são essências para voar🚀"
 ✅ Adoraria fazer parte do seu projeto, aberto a qualquer desafio.

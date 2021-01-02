@@ -1,7 +1,7 @@
 ## Opa, tudo bom? Seja bem vindo!
 Olá, meu nome é Andrew Soares. Vivo e sempre morei no Rio de Janeiro🌍.
 
-Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas estudando e praticando tecnologias para me tornar um Front-End developer, como:
+Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas, estudando e praticando tecnologias para me tornar um Front-End developer, tecnologias como:
 - 🎮 CSS3, HTML5 e Javascript
 -  Sass, Flexbox e Boostrap
 -  Design UI/UX(Adobe XD)

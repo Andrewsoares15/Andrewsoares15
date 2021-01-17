@@ -2,9 +2,9 @@
 Olá, meu nome é Andrew Soares. Vivo e sempre morei no Rio de Janeiro🌍.
 
 Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas, estudando e praticando tecnologias para me tornar um developer, tecnologias como:
-- 🎮 CSS3, HTML5 e Javascript
 - Python
 - Programação Orientada a Objetos
+- 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap e Grid
 - Design UI/UX(Adobe XD)
  - Tenho interesse: React, React native, nodejs ou PHP

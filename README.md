@@ -6,7 +6,7 @@ Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas, estud
 - Programação Orientada a Objetos
 - 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap e Grid
-- Design UI/UX(Adobe XD)
+- Design UI(Adobe XD)
  - Tenho interesse: React, Angular ou Vue e Django.
  - Também estudei sobre python durante todo um semestre da faculdade
  - Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.

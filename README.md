@@ -5,7 +5,7 @@ Estudo Sistemas de Informações, e todos os dias me dedico de  6/8 horas, estud
 - Python
 - Programação Orientada a Objetos
 - 🎮 CSS3, HTML5 e Javascript
-- Flexbox, Boostrap e Grid
+- Flexbox, Boostrap.
 - ⚙ Ferramentas: VsCode, Gulp, Adobe XD, Git e GitHub.
  - Tenho interesse: React, Angular ou Vue e Django.
  - Também estudei sobre python durante todo um semestre da faculdade

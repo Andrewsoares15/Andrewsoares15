@@ -5,7 +5,6 @@ Sou estudante de Sistemas de Informações, e todos os dias me dedico de  6/8 ho
 - 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap.
 - Python
-- Programação Orientada a Objetos
 - ⚙ Ferramentas: VsCode, Gulp, Adobe XD, Git e GitHub.
  - Tenho interesse: React, Angular ou Vue.
 

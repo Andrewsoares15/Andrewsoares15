@@ -8,7 +8,7 @@ Sou estudante de Sistemas de Informações, e todos os dias me dedico de  6/8 ho
 - ⚙ Ferramentas: VsCode, Gulp, Adobe XD, Git e GitHub.
  - Tenho interesse: React, Angular ou Vue.
 
- - Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.
+ ###Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.
 ##### " Foguete não tem ré 🚀🚀🚀"
 ✅ Adoraria fazer parte do seu projeto, aberto a qualquer desafio.
 #### Contato

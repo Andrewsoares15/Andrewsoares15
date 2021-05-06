@@ -2,13 +2,12 @@
 Olá, meu nome é Andrew Soares. Vivo e sempre morei no Rio de Janeiro🌍.
 
 Sou estudante de Sistemas de Informações, e todos os dias me dedico de  4/6 horas, estudando e praticando tecnologias para me tornar um desenvolvedor Sofware Developer, tecnologias como:
-- Java
-- OO
-- Spring
+
 - 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap.
+- Java
 - ⚙ Ferramentas: Eclipse, VsCode, Gulp, Adobe XD, Git e GitHub/Lab.
- - Tenho interesse: Spring, Angular.
+ - Tenho interesse: React, Angular...
 
  ### Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.
 ##### " Foguete não tem ré 🚀🚀🚀"

@@ -5,9 +5,10 @@ Sou estudante de Sistemas de Informações, e todos os dias me dedico de  4/6 ho
 
 - 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap.
+- Python
 - Java
 - ⚙ Ferramentas: Eclipse, VsCode, Gulp, Adobe XD, Git e GitHub/Lab.
- - Tenho interesse: React, Angular...
+ - Tenho interesse: React, Angular, Django, Spring...
 
  ### Posso estudar qualquer uma tecnologia que for necessária para concluir o projeto.
 ##### " Foguete não tem ré 🚀🚀🚀"

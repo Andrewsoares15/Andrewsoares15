@@ -7,9 +7,7 @@ Sou estudante de Sistemas de Informações, e todos os dias me dedico de  4/6 ho
 - Flexbox, Boostrap.
 - Java
 - Spring
-- Python
 - Orientação a objetos
-- Django
 - ⚙ Ferramentas: pycharm, VsCode, Gulp, Adobe XD, Git e GitHub/Lab.
  - Tenho interesse(Vou estudar no futuro):Angular...
 

@@ -5,6 +5,8 @@ Sou estudante de Sistemas de Informações, e todos os dias me dedico de  4/6 ho
 
 - 🎮 CSS3, HTML5 e Javascript
 - Flexbox, Boostrap.
+- Java
+- Spring
 - Python
 - Orientação a objetos
 - Django
